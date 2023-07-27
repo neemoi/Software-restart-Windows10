@@ -1,0 +1,17 @@
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\bin\Debug\nnemoi.exe.config
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\bin\Debug\nnemoi.exe
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\bin\Debug\nnemoi.pdb
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.csproj.AssemblyReference.cache
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.Form1.resources
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.Properties.Resources.resources
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.csproj.GenerateResource.cache
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.csproj.CoreCompileInputs.cache
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.exe
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.pdb
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.OKShutDown.resources
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.OKReload.resources
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.OKLogIn.resources
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.OKLock.resources
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.OKSleep.resources
+C:\Users\ta4ve\source\repos\nnemoi\nnemoi\obj\Debug\nnemoi.OKGibernation.resources
