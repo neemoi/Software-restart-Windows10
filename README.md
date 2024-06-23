@@ -1,60 +1,60 @@
-# Программная перезагрузка ОС Windows 10
+# Software reboot of Windows 10 OS
 
-Это оконное приложение с графическим интерфейсом для системного управления в Windows.
+It is a windowed application with a graphical interface for system management in Windows.
 
-**Основные функции:**
+**Main functions:**
 
-    - Выключение Windows
-    - Перезагрузка Windows
-    - Вход в спящий режим
-    - Экран блокировки
-    - Режима гибернации
-    - Блокировка экрана
+    - Shutting down Windows
+    - Restart Windows
+    - Entering sleep mode
+    - Lock screen
+    - Hibernation mode
+    - Screen lock
     
-**Используемые технологии**
+**Technologies used**
 
     - C#
     - WinForms
     - .NET Framework
 
-**Сборка и запуск**
+**Build and launch**
 
-    - Установите Visual Studio 2019
-    - Откройте файл system_util.sln
-    - Соберите проект (Build -> Build Solution)
-    - В папке bin\Debug найдёте исполняемый файл
-    - Запустите исполняемый файл
+    - Install Visual Studio 2019
+    - Open the system_util.sln file
+    - Build the project (Build -> Build Solution)
+    - In the bin\Debug folder you will find the executable file
+    - Run the executable file
 
-**Интерфейс**
+**Interface**
 
 ![Error](https://imgur.com/wK02cG4.png)
 
-Приложение имеет следующие кнопки:
+The application has the following buttons:
 
-Перезагрузить
+Reboot
 
 ![Error](https://imgur.com/jE3kg5u.png)
 
-Выключить
+Switch off
 
 ![Error](https://imgur.com/2s9ePvt.png)
 
-Ввести в спящий режим
+Enter sleep mode
 
 ![Error](https://imgur.com/Lj5sqYk.png)
 
-Экран блокировки
+Lock Screen
 
 ![Error](https://imgur.com/Cjd1OG2.png)
 
-Режима гибернации
+Hibernation mode
 
 ![Error](https://imgur.com/QCntebA.png)
 
-Режим блокировки
+Lock mode
 
 ![Error](https://imgur.com/5tLyg8K.png)
 
-На каждое действие программа запрашивает подтверждение 
+The program requests confirmation for each action 
 
 ![Error](https://imgur.com/ADjkq9Y.png)
